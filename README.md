@@ -23,7 +23,8 @@ Our answer is in the form of a single bool called named higher_parking_proportio
 The main idea of the this question is the function groupby().
 
 ## Conclusion
-We found that top 10 concerns in our neighbourhood in 2020 is as following:
+We found that top 10 concerns with the numbers of complaints in our neighbourhood in 2020 is as following:
+
 Noise - Residential            2952
 Noise - Street/Sidewalk        2128
 HEAT/HOT WATER                 1885
@@ -34,4 +35,5 @@ Non-Emergency Police Matter     773
 Rodent                          691
 Illegal Fireworks               672
 UNSANITARY CONDITION            565
+
 And illegal parking complaint rate in our neighbourhood is lower than the general illegal parking complaint rate in New York City, which shows illegal parking is not a big concern compared to other concerns in our neighbourhood.
