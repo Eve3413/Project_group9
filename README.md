@@ -10,9 +10,12 @@ In this project, we have done two separate analyses on the "311_Service_Requests
 This repository contains three files: A Readme file to describe our work, a Top10.ipynb with our analysis of top 10 incident types and a Parking.ipynb with our analysis of parking incidents
 
 
+# Data
+Data Set: "311_Service_Requests_2020.csv"
+This data set is published by form New York City for public consumption or use. Amongst them is a dataset consisting of calls to the 311 phone number for non-emergency services. The data set consists of 2587316 data points on the created date, close date, agency, agency name, complanit tpye, Descriptor, Location Type and totally 41 others columns. 
 
-
-
-
-grouped the dataset by zip code to only concentrate on zip 10025 and then analyzed on the top 10 
+# Analyses
+For Parking.ipynb:
+Our answer is in the form of a single bool called named higher_parking_proportion. We get False when higher_parking_proportion is called.
+The main idea of the this question is the function groupby().
 
